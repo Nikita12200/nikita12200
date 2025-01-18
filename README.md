@@ -21,7 +21,8 @@ I am currently focused on my **thesis and research in the ML domain**, constantl
 - **Data Structures & Algorithms (DSA)**  
 - **Databases**: PostgreSQL  
 - **Virtualization**: Virtual Machines (VMs)  
-- **APIs**: Design and Integration  
+- **APIs**: Design and Integration
+- **Scraping**: Automated data collection using **Selenium**
 
 ### 🔍 Exploring  
 I enjoy delving into cutting-edge technologies and frameworks, always eager to expand my knowledge and capabilities.  
