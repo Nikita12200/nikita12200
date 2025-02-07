@@ -1,4 +1,4 @@
-# Welcome 👨‍💻  
+# Welcome 👩‍💻 
 
 Hello! I'm Nikita, a passionate Computer Science enthusiast currently pursuing my **Master of Technology in Computer Science and Engineering** at **IIT Bombay**.  
 
