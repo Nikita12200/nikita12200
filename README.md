@@ -34,7 +34,7 @@ My research involves exploring Machine Learning methodologies, particularly in a
 - Enhancing **neural network architectures** for better performance  
 
 ### 🌐 Connect with Me  
-Feel free to explore my work and reach out to collaborate!  
+Feel free to explore my work :)  
 
 - **LinkedIn**: https://www.linkedin.com/in/nikita-verma-3a6ab41b6
   
